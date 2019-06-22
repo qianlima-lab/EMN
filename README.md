@@ -1,4 +1,4 @@
-## EMN
+# EMN
 The code for paper "[Time series classification with Echo Memory Networks](https://www.sciencedirect.com/science/article/pii/S0893608019301406)" accepted at Neural Networks.
 
 This repository contains a demo of ECG200 in the UCR dataset.  The ECG200 dataset is located in `UCR_TS_Archive_2015/ECG200/`. You can run `echo_memory_network_demo.py` to test the model.
