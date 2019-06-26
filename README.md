@@ -12,7 +12,7 @@ The code for paper "[Time series classification with Echo Memory Networks](https
 ## Usage
 This repository contains a demo of ECG200 in the UCR dataset.  The ECG200 dataset is located in `UCR_TS_Archive_2015/ECG200/`. You can run the command
 ```
-echo_memory_network_demo.py
+python echo_memory_network_demo.py
 ```
 to test the model EMN.
 
