@@ -19,8 +19,6 @@ to test the model EMN.
 
 ## Reference
 
-If you think our work is useful, please cite the following
-
 ```
 @article{MA2019time,
 title = "Time series classification with Echo Memory Networks",
